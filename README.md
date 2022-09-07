@@ -5,6 +5,6 @@
 
 <img width="486" alt="" src="https://user-images.githubusercontent.com/1725068/188805932-6a00a5f9-2fc2-49a3-96ab-d8d82be0f473.png">
 
-## 資料
+## 解説
 
-* [GDIスケーリング論考](https://4d-jp.github.io/2020/08/03/gdi-scaling/)
+*On Getting Focus* イベントでテキスト入力エリアの背景色を変更し，四角形オブジェクトを背後に表示しています。
