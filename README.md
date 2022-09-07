@@ -8,3 +8,5 @@
 ## 解説
 
 *On Getting Focus* イベントでテキスト入力エリアの背景色を変更し，四角形オブジェクトを背後に表示しています。Mac版では面白いアニメーション効果がつきます。
+
+![mov](https://user-images.githubusercontent.com/1725068/188824586-c840b946-fca8-4783-aec9-008b7b09e3ee.gif)
